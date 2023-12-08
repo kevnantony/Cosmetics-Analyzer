@@ -12,7 +12,7 @@ The content-based recommendation system relies on intricate word embedding techn
 
 ## Exploratory Data Analysis (EDA)
 
-A preliminary Exploratory Data Analysis (EDA) precedes machine learning endeavors, unraveling nuanced insights. Distinct product categories, notably moisturizers and cleansers, exhibit tailored formulations for dry and sensitive skin types. Comprehensive analyses of product ratings and multifaceted features empower users with the ability to discern and select products aligned with their distinct preferences.
+A preliminary Exploratory Data Analysis (EDA) precedes machine learning endeavors, unraveling nuanced insights. Comprehensive analyses of product ratings and multifaceted features empower users with the ability to discern and select products aligned with their distinct preferences.
 
 ## Skin Typology Examination
 
