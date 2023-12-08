@@ -26,10 +26,10 @@ To facilitate granular ingredient-level comparisons, a meticulous tokenization p
 
 The visualization framework is fortified with the deployment of the Bokeh library, orchestrating the reduction of DTM dimensions using t-SNE. T-distributed Stochastic Neighbor Embedding, a sophisticated nonlinear dimensionality reduction methodology, is harnessed to map high-dimensional data onto a two-dimensional space. This transformative approach elucidates intricate ingredient similarities among cosmetic products.
 
-## Conclusive Remarks
+## Conclusion
 
-The fusion of cutting-edge data science methodologies with domain-specific knowledge engenders consumer empowerment. This project provides a sophisticated toolkit comprising detailed analyses and intricate visualizations, arming consumers with the requisite insights to navigate the complex terrain of cosmetic products tailored to their individualized skincare needs.
+This project provides a sophisticated toolkit comprising detailed analyses and intricate visualizations, arming consumers with the requisite insights to navigate the complex terrain of cosmetic products tailored to their individualized skincare needs.
 
 ## Future Scope
 
-I plan to make an ETL Pipeline to fetch product data from Nykaa and extract the ingredient data of the products using Google Search API. Furthermore, I plan to make an API of this model which could be pinged to analyze if a given product would be suitable for a particular user's skin persona.
+I plan to make an ETL Pipeline to fetch product data from Nykaa and extract the ingredient data of the products. Furthermore, I plan to make a microservice of this model which could be pinged to analyze if a given product would be suitable for a particular user's skin persona.
