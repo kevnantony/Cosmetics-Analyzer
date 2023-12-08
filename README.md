@@ -1,8 +1,8 @@
-# COSMETICS INGREDIENTS ANALYZER
+# COSMETICS ANALYZER and RECOMMENDER
 
 ## Abstract
 
-Many people in the recent day and age suffer from the dilemma on which cosmetic product to use for their skin. The cosmetic products they choose are mostly based on their skin type, allergies, etc. This project delves into the domain of cosmetic product optimization, employing advanced data science methodologies to predict ideal ingredients for individualized skincare regimens. Leveraging a content-based recommendation system, this initiative aims to enhance the precision of cosmetics selection by scrutinizing 1472 products from the Sephora dataset.
+Many people in the recent day and age suffer from the dilemma of which cosmetic product to use for their skin. The cosmetic products they choose are mostly based on their skin type, allergies, etc. This project delves into the domain of cosmetic product optimization, employing advanced data science methodologies to predict ideal ingredients for individualized skincare regimens. Leveraging a content-based recommendation system, this initiative aims to enhance the precision of cosmetics selection by scrutinizing 1472 products from the Sephora dataset.
 
 ## Methodology
 
@@ -27,3 +27,7 @@ The visualization framework is fortified with the deployment of the Bokeh librar
 ## Conclusive Remarks
 
 The fusion of cutting-edge data science methodologies with domain-specific knowledge engenders consumer empowerment. This project provides a sophisticated toolkit comprising detailed analyses and intricate visualizations, arming consumers with the requisite insights to navigate the complex terrain of cosmetic products tailored to their individualized skincare needs.
+
+### Future Scope
+
+I plan to make an ETL Pipeline to fetch product data from Nykaa and extract the ingredient data of the products using Google Search API. Furthermore, I plan to make an API of this model which could be pinged to analyze if a given product would be suitable for a particular user's skin persona.
