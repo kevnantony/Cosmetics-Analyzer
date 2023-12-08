@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This project delves into the domain of cosmetic product optimization, employing advanced data science methodologies to predict ideal ingredients for individualized skincare regimens. Leveraging a content-based recommendation system, this initiative aims to enhance the precision of cosmetics selection by scrutinizing 1472 products from the Sephora dataset.
+Many people in the recent day and age suffer from the dilemma on which cosmetic product to use for their skin. The cosmetic products they choose are mostly based on their skin type, allergies, etc. This project delves into the domain of cosmetic product optimization, employing advanced data science methodologies to predict ideal ingredients for individualized skincare regimens. Leveraging a content-based recommendation system, this initiative aims to enhance the precision of cosmetics selection by scrutinizing 1472 products from the Sephora dataset.
 
 ## Methodology
 
