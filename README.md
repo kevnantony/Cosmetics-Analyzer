@@ -1,6 +1,6 @@
 # COSMETICS ANALYZER and RECOMMENDER
 
-### tldr : This project employs advanced data science techniques, including content-based recommendation systems, t-SNE dimensionality reduction, and Bokeh visualizations, to predict optimal cosmetic ingredients based on individual skin types, enhancing precision in product selection.
+### tl;dr- This project employs advanced data science techniques, including content-based recommendation systems, t-SNE dimensionality reduction, and Bokeh visualizations, to predict optimal cosmetic ingredients based on individual skin types, enhancing precision in product selection.
 
 ## Abstract
 
